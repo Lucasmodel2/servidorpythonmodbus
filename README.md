@@ -1,4 +1,6 @@
-# Simulador Modbus TCP
+# servidorpythonmodbus
+
+Simulador Modbus TCP em Python.
 
 Servidor Python 3 sem dependencias externas, em `127.0.0.1:501` por padrao.
 
